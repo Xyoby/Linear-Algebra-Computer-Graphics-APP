@@ -2,7 +2,7 @@ from manim import *
 
 class VectorTransformationRx(Scene):
     def construct(self):
-        # Create axes
+        # Create  los ejes coordenados
         axes = Axes(
             x_range=[-4, 4],
             y_range=[-4, 4],
